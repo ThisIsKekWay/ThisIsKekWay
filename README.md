@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThisIsKekWay
-- 🌱 I’m currently learning python
-- 📫 How to reach me tg @Sugar_King
+- 🌱 I’m currently dead
+- 📫 How to reach me - dont
 
 <!---
 ThisIsKekWay/ThisIsKekWay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
